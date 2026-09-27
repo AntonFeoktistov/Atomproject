@@ -1,0 +1,24 @@
+# --- PDF и результаты анализа ---
+*.pdf
+pdfs/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# --- Результаты скрипта ---
+wordfreq_*.csv
+*.csv
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
