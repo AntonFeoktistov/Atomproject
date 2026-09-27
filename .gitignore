@@ -1,6 +1,5 @@
 # --- PDF и результаты анализа ---
-*.pdf
-pdfs/
+
 !sources/
 !sources/*.pdf
 # --- Python ---
